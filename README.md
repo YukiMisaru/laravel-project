@@ -15,7 +15,7 @@ Saya belajar laravel baru sekitar 2 - 3 mingguan dengan rata rata 2jam sehari se
 Project masih dalam tahap awal pengembangan
 
 ## Catatan
-- Database sudah dirancang
+- Database dalam tahap perancang
 - Integrasi database masih dalam proses
 
 ## Tujuan
