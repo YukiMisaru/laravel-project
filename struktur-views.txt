@@ -1,0 +1,29 @@
+Folder PATH listing for volume Game
+Volume serial number is 000000EB 601B:F7D9
+D:\PROJECT_LARAVEL\WEDDING1\RESOURCES\VIEWS
+ÃÄÄÄauth
+ÃÄÄÄbilling
+ÃÄÄÄcomponents
+ÃÄÄÄdashboard
+³   ÃÄÄÄakun
+³   ÃÄÄÄeditor
+³   ³   ÃÄÄÄcomponents
+³   ³   ÀÄÄÄpartials
+³   ÃÄÄÄgallery
+³   ÃÄÄÄrsvp
+³   ÀÄÄÄtemplates
+ÃÄÄÄeditor
+ÃÄÄÄinvitations
+³   ÀÄÄÄtemplates
+³       ÃÄÄÄtheme-classic
+³       ³   ÀÄÄÄsection
+³       ÃÄÄÄtheme-elegant
+³       ³   ÀÄÄÄsection
+³       ÀÄÄÄtheme-modern
+³           ÀÄÄÄsection
+ÃÄÄÄlayouts
+³   ÃÄÄÄdashboard
+³   ÀÄÄÄinvitation
+ÃÄÄÄmarketing
+³   ÀÄÄÄpartials
+ÀÄÄÄorders
